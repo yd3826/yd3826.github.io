@@ -1,8 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
-
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+name: "HMI assignment4"
+description: "我们四个真不会打球"
 
 navigation:
   - name: 首页
